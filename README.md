@@ -28,9 +28,11 @@ As you're going through this curriculum, it would be great if you could help us 
 ---
 
 ### Jim Analogy
- I didn't start off as Luke. I started off as "little Jimmy". Then I acquired the force (learned swift).
+ I didn't start off as Luke. I started off as "little Jimmy".
 
 ![jim](http://i.imgur.com/baU7P6C.png?1)
+
+Then I acquired the force (learned Swift).
 
 ![luke](http://i.imgur.com/RX8eL02.jpg?1)
 
