@@ -12,7 +12,7 @@ This course will be an introductory online Swift +  iOS course that we will be r
 
 Although we title it as an introductory course, this will be challenging.
 
-Here are the units available to you know:
+Here are the units available to you now:
 
 * Introduction
 * Basics
@@ -21,11 +21,14 @@ Here are the units available to you know:
 * Optionals
 * Tuples
 
-As I'm working on this (on the daily), new material should be released every few days which will become immediately accessible to you. I will notify you via Slack when new material is available.
+As I work hard at this course everyday, new material should be released every few days which will become immediately accessible to you. I will notify you via Slack when new material becomes available.
 
-As you're going through this curriculum, it would be **great** if you could help us improve it and give us feedback.
+As you're going through this curriculum, it would be great if you could help us improve it and give us feedback.
 
---- 
+
+I put a lot of energy in how best to approach certain topics. I might think explaining something a certain way is the _best_ way.. but I could be wrong. I WELCOME your feedback!
+
+---
 
 **How do I leave feedback**?
 
@@ -41,7 +44,7 @@ If your issue or feedback is about multiple lessons, then you can just raise the
 
 **What kind of feedback should I give?** In short, give us feedback on everything! If you're wondering whether your issue or comment is too small, it's not. Don't worry about hurting our feelings or being too critical. We want to make this curriculum amazing and having everyone's feedback and suggestions on this will only make us better.
 
-Think specifically about whether the content feels good for beginners. Do you feel comfortable but also challenged? Does the pacing work? Should there be more or less content anywhere? What's confusing? What needs to be explained better? Where are you lost? Is everything that you're supposed to be doing in the labs covered in the Readings that come before it? Please try to run and do the labs so that we can find any technical bugs in there as well. 
+Think specifically about whether the content feels good for beginners. Do you feel comfortable but also challenged? Does the pacing work? Should there be more or less content anywhere? What's confusing? What needs to be explained better? Where are you lost? Is everything that you're supposed to be doing in the labs covered in the readings that come before it? Please try to run and do the labs so that we can find any technical bugs in there as well. 
 
 And is it fun? Are you enjoying the lessons? Do they want you to keep moving forward? 
 
