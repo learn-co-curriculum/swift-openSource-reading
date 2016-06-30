@@ -25,8 +25,22 @@ As I work hard at this course everyday, new material should be released every fe
 
 As you're going through this curriculum, it would be great if you could help us improve it and give us feedback.
 
+---
 
-I put a lot of energy in how best to approach certain topics. I might think explaining something a certain way is the _best_ way.. but I could be wrong. I WELCOME your feedback!
+### Jim Analogy
+ I didn't start off as Luke. I started off as "little Jimmy". Then I acquired the force (learned swift).
+
+![jim](http://i.imgur.com/baU7P6C.png?1)
+
+![luke](http://i.imgur.com/RX8eL02.jpg?1)
+
+Being able to write Swift isn't just reading a few blogs. It isn't about starting a Swift project only to work on it once a week. It isn't about reading someone elses code base. It's about **focus** and **determination**. You need to day in and day out be studying and writing Swift. And this isn't to say that you should ONLY go through this course.
+
+* Read apples book on Swift - [The Swift Programming Languate (Swift 2.2)](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
+* If you're at a party and you start to think about Extensions and forgot how you might accomplish that task. When you get home, open up a playground file and create an Extension on Int. 
+* Don't gloss over what you *THINK* you know. It doesn't hurt to re-read anything or code through a lesson a second or third time. Solidfy your knowledge, sharpen your skills.
+* Don't take the basics for granted. Understand how to articulate what is going on in code. Everything is built on these basics.
+* Acquire the **force** young Jedi. You got this.
 
 ---
 
