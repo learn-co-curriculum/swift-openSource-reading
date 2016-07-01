@@ -38,7 +38,7 @@ Then I acquired the force (learned Swift).
 
 Being able to write Swift isn't just reading a few blogs. It isn't about starting a Swift project only to work on it once a week. It isn't about reading someone elses code base. It's about **focus** and **determination**. You need to day in and day out be studying and writing Swift. And this isn't to say that you should ONLY go through this course.
 
-* Read apples book on Swift - [The Swift Programming Languate (Swift 2.2)](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
+* Read Apple's book on Swift - [The Swift Programming Languate (Swift 2.2)](https://itunes.apple.com/us/book/swift-programming-language/id881256329?mt=11)
 * If you're at a party and you start to think about Extensions and forgot how you might accomplish that task. When you get home, open up a playground file and create an Extension on Int. 
 * Don't gloss over what you *THINK* you know. It doesn't hurt to re-read anything or code through a lesson a second or third time. Solidfy your knowledge, sharpen your skills.
 * Don't take the basics for granted. Understand how to articulate what is going on in code. Everything is built on these basics.
